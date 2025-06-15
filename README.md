@@ -1,2 +1,1 @@
-# hybrid_a_star
-Hybrid_a_star trajectory planning
+this project is to implement hybrid_a_star trajectory planning
